@@ -11,6 +11,10 @@ Ya! Kamu ga salah denger, banyak loh developer ternama yang buat portofolio meng
 ### Alasan kamu harus pake Github untuk projek kamu!
 - Mudah digunakan dan dipahami
 - Cepat, reliabel, dan handal
+- Dokumentasi kode menjadi lebih mudah
+- Dapat berkolaborasi dengan banyak orang di berbagai bidang
+- Memiliki banyak fitur
+- Dapat melakukan Fork dan Clone
 
 # Coba tebak Github punya berapa heading?!
 ## Ini Heading 2
