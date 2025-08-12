@@ -8,5 +8,7 @@ Contohnya kaya aku sekarang sedang berkolaborasi dengan SyifAndini untuk reposit
 
 ## Github bisa sebagai portofolio!
 Ya! Kamu ga salah denger, banyak loh developer ternama yang buat portofolio menggunakan Github.
-### Github kecil
+### Alasan kamu harus pake Github untuk projek kamu!
+- Mudah digunakan dan dipahami
+- Cepat, reliabel, dan handal
 #### Github lebih kecil
